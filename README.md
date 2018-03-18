@@ -2,7 +2,7 @@
 
 In this project, we try to predict whether the movie reviews obtained from IMDB are positive or negative using neural networks. This project was done as a part of Udacity Neural Networks Foundations Nanodegree program.
 
-The Final Notebook is [here](https://github.com/abishekarun/Boston-Housing/blob/master/boston_housing.ipynb) for this project.
+The Final Notebook is [here](https://github.com/abishekarun/IMDB-Movie-Reviews/blob/master/Sentiment_Analysis_IMDB_reviews.ipynb) for this project.
 
 The resources that helped me are:
 
